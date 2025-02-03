@@ -1,4 +1,4 @@
-# Fruit classification with CNN
+# Fruit classification with TL
 
 ---
 
